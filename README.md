@@ -6,3 +6,5 @@
 #### OR
 #### Template by https://github.com/Ruu3f/notepad
 #### It isn't necessary, but please crediting is a good thing.
+## Please star this repo!
+<img src="star.png">
