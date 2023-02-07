@@ -21,12 +21,6 @@ class Notepad:
 
     def __init__(self,**kwargs):
         try:
-        		self.__root.wm_iconbitmap("notepad.png")
-        except:
-        		pass
-
-
-        try:
             self.__thisWidth = kwargs['width']
         except KeyError:
             pass
